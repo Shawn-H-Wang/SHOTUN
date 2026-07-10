@@ -1,0 +1,9 @@
+iter/epoch: 20, lr: 0.005, rmse: 0.0429, psnr: 27.456177, sam: 12.845119, ergas: 3.92, ssim: 0.688, uiqi: 0.908, loss: 1395.405517578125
+iter/epoch: 40, lr: 0.005, rmse: 0.0284, psnr: 30.984713, sam: 10.962943, ergas: 2.7, ssim: 0.84, uiqi: 0.938, loss: 474.41082763671875
+iter/epoch: 60, lr: 0.005, rmse: 0.0227, psnr: 32.962765, sam: 10.132836, ergas: 2.2, ssim: 0.886, uiqi: 0.953, loss: 286.52398681640625
+iter/epoch: 80, lr: 0.005, rmse: 0.0197, psnr: 34.280605, sam: 9.547098, ergas: 1.94, ssim: 0.91, uiqi: 0.96, loss: 202.82415771484375
+iter/epoch: 100, lr: 0.005, rmse: 0.0177, psnr: 35.269215, sam: 9.066127, ergas: 1.77, ssim: 0.925, uiqi: 0.964, loss: 156.14105224609375
+iter/epoch: 20, lr: 0.005, rmse: 0.0424, psnr: 27.618645, sam: 12.779883, ergas: 3.86, ssim: 0.706, uiqi: 0.911, loss: 1349.889404296875
+iter/epoch: 40, lr: 0.005, rmse: 0.0269, psnr: 31.507053, sam: 10.962097, ergas: 2.57, ssim: 0.853, uiqi: 0.941, loss: 444.63372802734375
+iter/epoch: 60, lr: 0.005, rmse: 0.0222, psnr: 33.202862, sam: 10.03491, ergas: 2.16, ssim: 0.893, uiqi: 0.954, loss: 282.4461669921875
+iter/epoch: 80, lr: 0.005, rmse: 0.0192, psnr: 34.520222, sam: 9.431207, ergas: 1.89, ssim: 0.916, uiqi: 0.961, loss: 204.2087860107422
