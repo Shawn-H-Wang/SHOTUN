@@ -14,7 +14,7 @@ Simple run `./unfolded_net_sparse_representation_full_unfolded.py` (non-local ve
 - Before: For the required packages, please refer to detailed `.py` files.
 - Results: Please see the four evaluation metrics (PSNR, SAM, ERGAS, and UIQI) and the output `.mat` files saved in `./data/`.
 
-:exclamation: You may need to manually simulate the two HSIs to your local in the folder under path `./data/pavia/`. The file path could be set in `./utils.py`.
+:exclamation: You may need to manually simulate the two HSIs to your local in the folder under path `./data/pavia/`. The file path could be set in `./utils.py`. The simulation code implemented via MATLAB could be found in [DTDNML](https://github.com/Shawn-H-Wang/DTDNML).
 
 ## References
 If you find this code helpful, please kindly cite:
