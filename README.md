@@ -2,7 +2,7 @@
 
 He Wang, Yang Xu\*, Zhihui Wei, Zebin Wu
 
-Code for the paper: [Self-Expressive High-Order Tensor Unrolling Network for Unsupervised Hyperspectral and Multispectral Image Fusion]([https://ieeexplore.ieee.org/document/11536824](https://ieeexplore.ieee.org/document/11536824))-*TIP* 2026
+Code for the paper: [Self-Expressive High-Order Tensor Unrolling Network for Unsupervised Hyperspectral and Multispectral Image Fusion]((https://ieeexplore.ieee.org/document/11536824))-*TIP* 2026
 
 <div align="center">
 <img src="./figures/SHOTUN.png"/>
